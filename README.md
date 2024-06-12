@@ -7,14 +7,14 @@ Hi there! I'm Joran Coen, a student programmer passionate about C# and JS. Welco
 - 🌱 I’m currently learning JS and C#.
 - 👯 I’m looking to collaborate on C# injecting.
 - 💬 Ask me about AI.
-- 📫 How to reach me: joran.coen@arteveldehs.be.
+- 📫 How to reach me: joran.coen@student.arteveldehs.be.
 
 ## Get in Touch
 
 Feel free to reach out to me through the following channels:
 
 - LinkedIn: [www.linkedin.com/in/joran-coen-4a819a2b5](link)
-- Email: [joran.coen@arteveldehs.be](mailto:joran.coen@student.arteveldehs.be)
+- Email: [joran.coen@student.arteveldehs.be](mailto:joran.coen@student.arteveldehs.be)
 
 ## Thank You
 
