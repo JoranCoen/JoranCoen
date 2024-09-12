@@ -4,9 +4,7 @@ Hi there! I'm Joran Coen, a student programmer passionate about C# and JS. Welco
 
 ## About Me
 
-- 🌱 I’m currently learning JS and C#.
-- 👯 I’m looking to collaborate on C# injecting.
-- 💬 Ask me about AI.
+- 🌱 I’m currently learning js, java, kt, and c#.
 - 📫 How to reach me: joran.coen@student.arteveldehs.be.
 
 ## Get in Touch
