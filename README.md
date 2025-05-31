@@ -11,7 +11,6 @@ Hi there! I'm Joran Coen, a student programmer passionate about C# and JS. Welco
 
 Feel free to reach out to me through the following channels:
 
-- LinkedIn: [www.linkedin.com/in/joran-coen-4a819a2b5](link)
 - Email: [jorancoen886@gmail.com](mailto:jorancoen886@gmail.com)
 
 ## Thank You
